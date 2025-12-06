@@ -1,4 +1,4 @@
-<img src="./MTWS.png" alt="MTWS" width="20%" align="center">
+<img src="https://www.mtws.one/_next/image?url=%2Fassets%2Fbrand%2Flogos%2Flogo.png&w=96&q=75" alt="MTWS" width="20%" align="center">
 
 <h1 align="center">Markaz Tawheed was-Sunnah</h1>
 
